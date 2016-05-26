@@ -1,15 +1,26 @@
+Notes and notebooks on learning R
+
+
+
+reference material
+-------------------
+http://www.statmethods.net/input/datatypes.html
+https://www.datacamp.com/community/tutorials/functions-in-r-a-tutorial
+
+online classes
+--------------
+https://www.datacamp.com/courses/ggvis-data-visualization-r-tutorial?questions_plots&utm_medium=blog&utm_campaign=questions_plots
+
+https://www.edx.org/course/programming-r-data-science-microsoft-dat209x
+
+
 cheat sheets
 ================
 http://www.sr.bham.ac.uk/~ajrs/R/r-function_list.html#general
-https://r-dir.com/reference/crib-sheets.html
+https://r-dir.com/reference/crib-sheets.html  
 
 Data types
 ==========
-summarized notes from
-http://www.statmethods.net/input/datatypes.html
-https://www.edx.org/course/programming-r-data-science-microsoft-dat209x
-https://www.datacamp.com/community/tutorials/functions-in-r-a-tutorial
-
 
 Singles
 -------
